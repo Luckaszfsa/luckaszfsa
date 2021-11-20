@@ -5,7 +5,7 @@ Este jogo foi inicialmente realizado durante o desafio JavaScript que fiz no Boo
 ### Funcionalidades existentes
 O primeiro commit foi como o projeto foi finalizado no desafio, como na imagem abaixo.
 
-![](https://i.imgur.com/1vvAuGq.png)
+![](https://imgur.com/a/S7g3j7L)
 
 :heavy_check_mark: Função para criação do background, utilizando canvas.
 
