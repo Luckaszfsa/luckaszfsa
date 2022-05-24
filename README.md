@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ### Atualmente:
 :man:Estou aprendendo mais sobre programação buscando migração de carreira. 
