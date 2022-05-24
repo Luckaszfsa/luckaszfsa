@@ -5,7 +5,7 @@
 
 
 ### Atualmente:
-Estou aprendendo mais sobre programação buscando migração de carreira. 
+:man:Estou aprendendo mais sobre programação buscando migração de carreira. 
 
 :computer:Cursando Desenvolvimento de Sistemas no SENAI - BA
 
