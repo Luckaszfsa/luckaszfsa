@@ -31,17 +31,11 @@
   
 ### Contatos:
 
-<div>
-
-<a href="https://www.twitch.tv/Luckaszgamer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:luckasz.mendes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-mendes-966ab532" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  
+<div> 
   <p align="center">
 &nbsp; <a href="https://twitter.com/Luckasz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/lucas-mendes-966ab532" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:luckasz.mendes@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-  
+  </div>
  
