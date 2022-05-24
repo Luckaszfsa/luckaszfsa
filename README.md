@@ -5,7 +5,8 @@
 
 
 👨🏾‍💻 Atualmente:
-Estou aprendendo mais sobre programação antes de ingressar no mercado. Cursando Desenvolvimento de Sistemas no SENAI - BA
+Estou aprendendo mais sobre programação buscando migração de carreira. 
+Cursando Desenvolvimento de Sistemas no SENAI - BA
 
 ### Estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=75 height=75/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=75 height=75 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=75 height=75/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=75 height=75 />
