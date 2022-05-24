@@ -18,6 +18,7 @@ Estou aprendendo mais sobre programação antes de ingressar no mercado. Cursand
 
 ### Planos:
 :white_check_mark:Me aprimorar nas tecnologias back-end e mobile
+
 :white_check_mark:Adquirir mais conhecimento em PYTHON e Flutter
 
 <div>
