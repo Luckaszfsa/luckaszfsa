@@ -6,6 +6,7 @@
 
 👨🏾‍💻 Atualmente:
 Estou aprendendo mais sobre programação buscando migração de carreira. 
+
 Cursando Desenvolvimento de Sistemas no SENAI - BA
 
 ### Estou aprendendo:
