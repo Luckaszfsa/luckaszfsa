@@ -32,7 +32,7 @@
 ### Contatos:
 
 <div> 
-  <p align="center">
+  <p align="left">
 &nbsp; <a href="https://twitter.com/Luckasz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/lucas-mendes-966ab532" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:luckasz.mendes@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
