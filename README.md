@@ -22,7 +22,7 @@
 
 
 ### Planos:
-:white_check_mark:Me aprimorar nas tecnologias back-end e mobile
+:white_check_mark:Me aprimorar nas tecnologias back-end e análise de dados
 
 :white_check_mark:Adquirir mais conhecimento em PYTHON e JAVA
 
